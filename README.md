@@ -6,12 +6,13 @@ Frontend Developer
 
 I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team.
 
-* 🌍  I'm based in Poland, Bochnia
+* 🌍  I'm based in Poland
 * ✉️  You can contact me at [fcmaro.g@gmail.com](mailto:fcmaro.g@gmail.com)
 * 🚀  I'm currently working on build my portfolio
-* 🧠  I'm learning JS
+* 🧠  I’m currently learning **TypeScript**
 * 🤝  I'm open to collaborating on Website development
-* 🎓  I plan to start learning react or Anguar soon.
+* 🎓  I plan to start learning **React**
+* ⚡Hobbies **I love play handball**
 
 ### Skills
 
@@ -27,6 +28,7 @@ I started learning programming since elementary school. However, it's only been 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
 </p>
 
 
