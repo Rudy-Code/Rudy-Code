@@ -6,7 +6,7 @@
 </div>
 
 
-<div style="display: flex">
+<div display="flex">
 
 <p style="margin-right: 20px">I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team <p>
 
