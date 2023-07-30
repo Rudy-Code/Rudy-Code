@@ -6,8 +6,8 @@
 </div>
 
 I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team 
-
 <br>
+
 - 🌍  I'm based in Poland
 - ✉️  You can contact me at [fcmaro.g@gmail.com](mailto:fcmaro.g@gmail.com)
 - 🚀  I'm currently working on build my portfolio
