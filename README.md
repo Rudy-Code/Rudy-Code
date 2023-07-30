@@ -10,7 +10,7 @@
 
 <p style="margin-right: 20px">I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team <p>
 
-<a href="https://github.com/RudyDev1/RudyDev1/blob/main/computer.gif"><img src="computer.gif" alt="computer animation gif" border="0"/></a>
+<a href="https://github.com/RudyDev1/RudyDev1/blob/main/computer.gif"><img src="computer.gif" alt="computer animation gif" border="0" width="400"/></a>
 </div> 
   
 <br>
