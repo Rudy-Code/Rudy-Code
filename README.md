@@ -1,6 +1,6 @@
 [![MasterHead](https://s11.gifyu.com/images/SckiU.gif)](https://s11.gifyu.com/images/SckiU.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marek
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marek <br>
 Frontend Developer
 <a href="https://gifyu.com/image/SckiW"><img   width="400" src="https://s11.gifyu.com/images/SckiW.gif" alt="SckiW.gif" border="0" /></a>
 ------------------
