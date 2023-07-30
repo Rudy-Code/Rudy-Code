@@ -1,7 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marek
-=============================================================================================================================
+[![MasterHead](https://s11.gifyu.com/images/SckiU.gif)](https://s11.gifyu.com/images/SckiU.gif)
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marek
+
+=============================================================================================================================
 Frontend Developer
+<a href="https://gifyu.com/image/SckiW"><img   width="400" src="https://s11.gifyu.com/images/SckiW.gif" alt="SckiW.gif" border="0" /></a>
 ------------------
 
 I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team.
@@ -34,7 +37,7 @@ I started learning programming since elementary school. However, it's only been 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/RudyDev #8260" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RudyDev1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/RudyDev #5032" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RudyDev1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -46,5 +49,4 @@ I started learning programming since elementary school. However, it's only been 
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RudyDev1/diamonds-site-course" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RudyDev1&repo=diamonds-site-course&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RudyDev1/paradise-project-course" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RudyDev1&repo=paradise-project-course&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/RudyDev1/notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RudyDev1&repo=notes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/RudyDev1/forest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RudyDev1&repo=forest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
