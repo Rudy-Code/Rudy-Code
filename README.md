@@ -5,16 +5,9 @@
 <h3> Frontend Developer </h3>
 </div>
 
+I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team 
 
-<div display="flex">
-
-<p style="margin-right: 20px">I started learning programming since elementary school. However, it's only been a year since I took my studies seriously and I'm expanding into the front end. In addition, I have been playing handball for a very long time, so I can communicate well and work in a team <p>
-
-<a href="https://github.com/RudyDev1/RudyDev1/blob/main/computer.gif"><img src="computer.gif" alt="computer animation gif" border="0" width="400"/></a>
-</div> 
-  
 <br>
-
 - 🌍  I'm based in Poland
 - ✉️  You can contact me at [fcmaro.g@gmail.com](mailto:fcmaro.g@gmail.com)
 - 🚀  I'm currently working on build my portfolio
