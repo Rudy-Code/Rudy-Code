@@ -35,16 +35,16 @@ I started learning programming since elementary school. However, it's only been 
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/RudyDev #5032" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/RudyDev1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/rudycode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rudy-Code" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RudyDev1"><img src="https://github-readme-stats.vercel.app/api?username=RudyDev1&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RudyDev1's GitHub stats" /></a>
+<a href="http://www.github.com/Rudy-Code"><img src="https://github-readme-stats.vercel.app/api?username=RudyDev1&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RudyCode's GitHub stats" /></a>
 
-<a href="https://github.com/RudyDev1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudyDev1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Rudy-Code" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudyDev1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<a href="https://github.com/RudyDev1/forest" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RudyDev1&repo=forest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/Rudy-Code/forest" align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RudyDev1&repo=forest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><br /><br /><br /><br /><br /><br /><br />
