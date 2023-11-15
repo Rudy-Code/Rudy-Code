@@ -11,9 +11,9 @@ I started learning programming since elementary school. However, it's only been 
 - 🌍  I'm based in Poland
 - ✉️  You can contact me at [fcmaro.g@gmail.com](mailto:fcmaro.g@gmail.com)
 - 🚀  I'm currently working on build my portfolio
-- 🧠  I’m currently learning **TypeScript** and **Tailwind**
+- 🧠  I’m currently learning **React**
 - 🤝  I'm open to collaborating on Website development
-- 🎓 I plan to start learning **React**
+- 🎓 I plan to start learning **Next.js**
 - ⚡Hobbies **I love play handball**
 
 ### Skills
