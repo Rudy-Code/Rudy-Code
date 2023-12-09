@@ -1,19 +1,16 @@
 [![MasterHead](https://s11.gifyu.com/images/ScGv0.gif)](https://gifyu.com/image/ScGv0)
 
-<div align="center">
-<h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, My name is Marek </h1>
-<h3> Frontend Developer </h3>
-</div>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marek
 
-=============================================================================================================================
+## Frontend Developer
 
 I started learning programming back in elementary school. However, it wasn't until high school that I started learning in earnest and have been developing as a front-end developer. In addition, I played handball for a very long time, so I can communicate well and work in a team.
 
-- 🌍  I'm based in Poland
-- ✉️  You can contact me at [fcmaro.g@gmail.com](mailto:fcmaro.g@gmail.com)
-- 🧠  I'm learning React, Next.js
-- 🤝  I'm open to collaborating on project
-- ⚡  AI will not take away our jobs ;)
+- 🌍 I'm based in Poland
+- ✉️ You can contact me at [fcmaro.g@gmail.com](mailto:fcmaro.g@gmail.com)
+- 🧠 I'm learning React, Next.js
+- 🤝 I'm open to collaborating on project
+- ⚡ AI will not take away our jobs ;)
 
 ### Skills
 
@@ -24,6 +21,7 @@ I started learning programming back in elementary school. However, it wasn't unt
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/rudycode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Rudy-Code" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@rudycode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
